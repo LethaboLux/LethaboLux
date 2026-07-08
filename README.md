@@ -1,4 +1,4 @@
- Hi, I’m Lethabo Malakalaka
+ Hi, I’m Lethabo Malakalaka 
 
 <div align="center">
 
@@ -77,7 +77,6 @@ Currently Exploring
 </a>
 </p>
 
-⸻
 
 <div align="center">
 
