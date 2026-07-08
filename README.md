@@ -81,6 +81,6 @@ Currently Exploring
 
 <div align="center">
 
-⭐ “Code. Learn. Build. Repeat.”
+
 
 </div>
