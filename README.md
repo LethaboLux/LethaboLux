@@ -2,7 +2,7 @@
 
 <div align="center">
 
-💻 Software Engineer | Information Systems Graduate | Lifelong Learner
+💻 Software Developer | Information Systems Graduate | Lifelong Learner
 
 “Building technology that solves real-world problems.”
 
@@ -19,9 +19,7 @@
 
 🥇 University of Johannesburg Software Project of the Year Winner
 
-🏛️ Former IT Officer Intern — City of Johannesburg
-
-💡 Passionate about Software Engineering, AI, Cloud Computing and Digital Transformation
+💡 Passionate about Software Developing, AI, Cloud Computing and Digital Transformation
 
 🌍 Based in Johannesburg, South Africa
 
@@ -59,34 +57,6 @@ Currently Exploring
 
 ⸻
 
-🌟 Featured Projects
-
-⚡ Adroit IoT Smart Meter
-
-🏆 Award-winning IoT solution enabling real-time electricity monitoring and billing.
-
-Tech: Arduino Cloud • C++ • JavaScript • PHP • MySQL
-
-⸻
-
-🏥 Patient Management System
-
-Java desktop application implementing Object-Oriented Programming principles and CRUD functionality.
-
-⸻
-
-🛒 FitnessHub
-
-Full-stack e-commerce web application featuring authentication, product management, shopping cart, and SQL database integration.
-
-⸻
-
-📈 Investment Prediction Model
-
-Python machine learning project using regression techniques to forecast investment performance.
-
-⸻
-
 📊 GitHub Analytics
 
 <p align="center">
@@ -102,21 +72,6 @@ Python machine learning project using regression techniques to forecast investme
 
 ⸻
 
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LethaboLux&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&column=4"/>
-</p>
-
-⸻
-
-📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LethaboLux&theme=tokyo-night"/>
-</p>
-
-⸻
 
 💡 Software Engineering Philosophy
 
