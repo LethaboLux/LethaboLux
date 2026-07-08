@@ -57,25 +57,9 @@ Currently Exploring
 
 ⸻
 
-📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LethaboLux&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LethaboLux&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-⸻
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LethaboLux&theme=tokyonight&hide_border=true"/>
-</p>
-
-⸻
-
-
 💡 Software Engineering Philosophy
 
-“Technology has the greatest impact when it solves meaningful problems. I strive to build software that is scalable, maintainable, and improves people’s lives.”
+“Technology has the biggest impact when it solves meaningful problems. I strive to build software that is scalable, maintainable, and improves daily activities.”
 
 ⸻
 
